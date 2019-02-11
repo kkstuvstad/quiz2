@@ -1,6 +1,6 @@
 # quiz2
 
-Description: For this quiz, I used a city boundaries shapefile for cities in the state of Oregon, which dispays the limits of the cities as polygons. This is the most recent edition from October 2018. This shapefile was converted to a GeoJSON file, which was reduced in size to about 144 KB. The simplified version smoothed out a lot of the boundaries, giving it many flat edges and reducing the accuracy of each city's boundary. However, the size of this was expanded to about 15 MB. Attached below are each file's respective name and size in bytes.
+Description: For this quiz, I used a city boundaries shapefile for cities in the state of Oregon, which dispays the limits of the cities as polygons. This is the most recent edition from October 2018. This shapefile was converted to a GeoJSON file, which was reduced in size to about 144 KB. The simplified version smoothed out a lot of the boundaries, giving it flatter edges and more simplified shapes, with several boundaries having a more triangular form. This reduced the accuracy of each city's boundary. However, the size of this file was expanded to about 15 MB. Attached below are each file's respective name and size in bytes.
 
 Name | Size
 ------|------
