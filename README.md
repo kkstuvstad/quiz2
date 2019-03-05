@@ -5,7 +5,7 @@ Description: For this quiz, I used a city boundaries shapefile for cities in the
 Name | Size
 ------|------
 citylim_2018.shp              | 4.59 MB
-citylim_2018.geojson          | 144 KB
-citylim_2018_simplified.json  | 144 KB
+citylim2018.json              | 13.2 MB
+citylim_2018_simplified.json  | 146 KB
 
 Data Source: "Oregon City Limits - 2018", Oregon Spatial Data Library, URL: https://spatialdata.oregonexplorer.info/geoportal/details;id=101b6c8f2d414d719dfeb2ed281af6c8 
